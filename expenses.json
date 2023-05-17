@@ -1,0 +1,14 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "name": "food",
+            "costPerWeek": 60
+        },
+        {
+            "id": 2,
+            "name": "car fuel",
+            "costPerWeek": 150
+        }
+    ]
+}
